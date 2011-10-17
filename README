@@ -1,2 +1,8 @@
-Search Ally
-new line
+Search Ally :
+	This provides search­keyword suggestions based on past searches and results.This works for the yahoo search for now but can be modified to be used for google search or any other search engines.
+
+How to install :
+	Install Grease Monkey add on to your browser and then generate a new user script and just copy the code.Enjoy!!!
+
+	We will be updating the script to be compatible for all the search engines in the near future, so keep checking for the updates.
+
